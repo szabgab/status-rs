@@ -4,7 +4,5 @@ A command line tool to write status messages that will appear on my web site and
 
 It will help me learn where I spend my time.
 
-
-* Get the current date
-* Save message with the corrent datae in a file in the home directory of the user ~/.status-rs/messages.json
+* Save message with the corrent date in a file in the home directory of the user ~/.status-rs/messages.json
 
